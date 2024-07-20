@@ -1,0 +1,59 @@
+
+    
+    
+    
+
+    
+    
+html { height: 100;
+    
+}
+
+
+
+
+
+h1{color:white;
+font-size: 300;
+padding-left: 400px;
+
+
+}
+h2{color:white;
+padding-left: 280px;
+   font-size: 3rem;
+
+}
+p {color:white;
+
+
+
+}
+
+/* I just Played around till i got the text in the Right place but i still have problems with the Paragraph which
+ * i would like to be underneath the second header International Rap Mafia*/
+
+
+
+
+
+body {
+    color:white;
+    background-color:black;
+    font-family: system-ui;
+    
+}
+
+.example {
+    margin-top: 1rem;
+    padding-left: 20px;
+    border: 1px white;
+    
+    
+}
+
+.example img {
+    width: 25%;
+    height: auto;
+    
+}
